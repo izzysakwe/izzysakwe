@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/10/16 09:38:03.000.832,=C:\Users\izzis\OneDrive\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2024/10/16 10:50:36.000.319,=C:\Users\izzis\OneDrive\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2024/10/16 10:50:47.000.970,=C:\Users\izzis\OneDrive\Documents\Embarcadero\Studio\Projects\Unit7.pas</Transaction>
+    <Transaction>2024/10/16 10:52:18.000.621,C:\Users\izzis\OneDrive\Documents\Embarcadero\Studio\Projects\Unit6.pas=C:\Users\izzis\OneDrive\Documents\Embarcadero\Studio\Projects\Beginner.pas</Transaction>
+    <Transaction>2024/10/16 10:52:18.000.621,C:\Users\izzis\OneDrive\Documents\Embarcadero\Studio\Projects\Unit6.dfm=C:\Users\izzis\OneDrive\Documents\Embarcadero\Studio\Projects\Beginner.dfm</Transaction>
+    <Transaction>2024/10/16 11:06:25.000.599,C:\Users\izzis\OneDrive\Documents\Embarcadero\Studio\Projects\Unit5.dfm=C:\Users\izzis\OneDrive\Documents\Embarcadero\Studio\Projects\Intermediate.dfm</Transaction>
+    <Transaction>2024/10/16 11:06:25.000.598,C:\Users\izzis\OneDrive\Documents\Embarcadero\Studio\Projects\Unit5.pas=C:\Users\izzis\OneDrive\Documents\Embarcadero\Studio\Projects\Intermediate.pas</Transaction>
+    <Transaction>2024/10/16 11:07:35.000.154,C:\Users\izzis\OneDrive\Documents\Embarcadero\Studio\Projects\Intermediate.dfm=C:\Users\izzis\OneDrive\Documents\Embarcadero\Studio\Projects\SignUp.dfm</Transaction>
+    <Transaction>2024/10/16 11:07:35.000.154,C:\Users\izzis\OneDrive\Documents\Embarcadero\Studio\Projects\Intermediate.pas=C:\Users\izzis\OneDrive\Documents\Embarcadero\Studio\Projects\SignUp.pas</Transaction>
+    <Transaction>2024/10/16 11:09:19.000.376,C:\Users\izzis\OneDrive\Documents\Embarcadero\Studio\Projects\Unit7.pas=C:\Users\izzis\OneDrive\Documents\Embarcadero\Studio\Projects\Intermediate.pas</Transaction>
+    <Transaction>2024/10/16 11:09:19.000.376,C:\Users\izzis\OneDrive\Documents\Embarcadero\Studio\Projects\Unit7.dfm=C:\Users\izzis\OneDrive\Documents\Embarcadero\Studio\Projects\Intermediate.dfm</Transaction>
+    <Transaction>2024/10/16 11:09:28.000.972,=C:\Users\izzis\OneDrive\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2024/10/16 11:11:18.000.897,C:\Users\izzis\OneDrive\Documents\Embarcadero\Studio\Projects\Unit4.dfm=C:\Users\izzis\OneDrive\Documents\Embarcadero\Studio\Projects\Expert.dfm</Transaction>
+    <Transaction>2024/10/16 11:11:18.000.897,C:\Users\izzis\OneDrive\Documents\Embarcadero\Studio\Projects\Unit4.pas=C:\Users\izzis\OneDrive\Documents\Embarcadero\Studio\Projects\Expert.pas</Transaction>
+    <Transaction>2024/10/16 13:29:22.000.221,=C:\Users\izzis\OneDrive\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2024/10/16 22:00:44.000.727,C:\Users\izzis\OneDrive\Documents\Embarcadero\Studio\Projects\Beginner.dfm=C:\Users\izzis\OneDrive\Documents\Embarcadero\Studio\Projects\Beginner\Beginner.dfm</Transaction>
+    <Transaction>2024/10/16 22:00:44.000.727,C:\Users\izzis\OneDrive\Documents\Embarcadero\Studio\Projects\Beginner.pas=C:\Users\izzis\OneDrive\Documents\Embarcadero\Studio\Projects\Beginner\Beginner.pas</Transaction>
+    <Transaction>2024/10/16 22:01:49.000.890,C:\Users\izzis\OneDrive\Documents\Embarcadero\Studio\Projects\SignUp.pas=C:\Users\izzis\OneDrive\Documents\IT PAT\New folder\SignUp.pas</Transaction>
+    <Transaction>2024/10/16 22:01:49.000.890,C:\Users\izzis\OneDrive\Documents\Embarcadero\Studio\Projects\SignUp.dfm=C:\Users\izzis\OneDrive\Documents\IT PAT\New folder\SignUp.dfm</Transaction>
+    <Transaction>2024/10/16 22:02:01.000.150,C:\Users\izzis\OneDrive\Documents\Embarcadero\Studio\Projects\Unit4.dfm=C:\Users\izzis\OneDrive\Documents\Embarcadero\Studio\Projects\Beginner\Unit4.dfm</Transaction>
+    <Transaction>2024/10/16 22:02:01.000.150,C:\Users\izzis\OneDrive\Documents\Embarcadero\Studio\Projects\Unit4.pas=C:\Users\izzis\OneDrive\Documents\Embarcadero\Studio\Projects\Beginner\Unit4.pas</Transaction>
+    <Transaction>2024/10/16 22:02:31.000.320,C:\Users\izzis\OneDrive\Documents\Embarcadero\Studio\Projects\Expert.dfm=C:\Users\izzis\OneDrive\Documents\IT PAT\New folder\Expert.dfm</Transaction>
+    <Transaction>2024/10/16 22:02:31.000.320,C:\Users\izzis\OneDrive\Documents\Embarcadero\Studio\Projects\Expert.pas=C:\Users\izzis\OneDrive\Documents\IT PAT\New folder\Expert.pas</Transaction>
+    <Transaction>2024/10/16 22:02:33.000.701,C:\Users\izzis\OneDrive\Documents\Embarcadero\Studio\Projects\Intermediate.dfm=C:\Users\izzis\OneDrive\Documents\Embarcadero\Studio\Projects\Beginner\Intermediate.dfm</Transaction>
+    <Transaction>2024/10/16 22:02:33.000.701,C:\Users\izzis\OneDrive\Documents\Embarcadero\Studio\Projects\Intermediate.pas=C:\Users\izzis\OneDrive\Documents\Embarcadero\Studio\Projects\Beginner\Intermediate.pas</Transaction>
+    <Transaction>2024/10/16 22:02:41.000.271,C:\Users\izzis\OneDrive\Documents\Embarcadero\Studio\Projects\Project2.dproj=C:\Users\izzis\OneDrive\Documents\Embarcadero\Studio\Projects\Beginner\Project2.dproj</Transaction>
+    <Transaction>2024/10/16 22:15:36.000.925,=C:\Users\izzis\OneDrive\Documents\Embarcadero\Studio\Projects\Expert\Experience.pas</Transaction>
+    <Transaction>2024/10/17 09:31:27.000.011,C:\Users\izzis\OneDrive\Documents\Embarcadero\Studio\Projects\Beginner\Unit4.pas=</Transaction>
+    <Transaction>2024/10/17 13:51:01.000.344,=C:\Users\izzis\OneDrive\Documents\Embarcadero\Studio\Projects\Beginner\Unit1.pas</Transaction>
+    <Transaction>2024/10/17 18:03:38.000.927,C:\Users\izzis\OneDrive\Documents\IT PAT\New folder\Unit11803.dfm=C:\Users\izzis\OneDrive\Documents\Embarcadero\Studio\Projects\Beginner\Unit1.dfm</Transaction>
+    <Transaction>2024/10/17 18:03:38.000.927,C:\Users\izzis\OneDrive\Documents\IT PAT\New folder\Unit11803.pas=C:\Users\izzis\OneDrive\Documents\Embarcadero\Studio\Projects\Beginner\Unit1.pas</Transaction>
+    <Transaction>2024/10/18 00:17:26.000.059,C:\Users\izzis\OneDrive\Documents\IT PAT\New folder\Unit11803.pas=C:\Users\izzis\OneDrive\Documents\IT PAT\New folder\dmConnection.pas</Transaction>
+    <Transaction>2024/10/18 00:17:26.000.059,C:\Users\izzis\OneDrive\Documents\IT PAT\New folder\Unit11803.dfm=C:\Users\izzis\OneDrive\Documents\IT PAT\New folder\dmConnection.dfm</Transaction>
+    <Transaction>2024/10/29 13:26:10.163,C:\Users\izzis\OneDrive\Desktop\pat\Project2.dproj=C:\Users\izzis\OneDrive\Documents\Embarcadero\Studio\Projects\Beginner\Project2.dproj</Transaction>
+    <Transaction>2024/10/29 13:27:39.870,C:\Users\izzis\OneDrive\Desktop\pat\Project2.dproj=C:\Users\izzis\OneDrive\Desktop\pat\Project2.dproj</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="..\..\Documents\Embarcadero\Studio\Projects"/>
+    <File Path="..\..\Documents\Embarcadero\Studio\Projects\Beginner"/>
+    <File Path="..\..\Documents\Embarcadero\Studio\Projects\Beginner\Beginner.pas"/>
+    <File Path="..\..\Documents\Embarcadero\Studio\Projects\Beginner\Beginner.dfm"/>
+    <File Path="..\..\Documents\Embarcadero\Studio\Projects\Beginner\Intermediate.pas"/>
+    <File Path="..\..\Documents\Embarcadero\Studio\Projects\Beginner\Intermediate.dfm"/>
+    <File Path="..\..\Documents\Embarcadero\Studio\Projects\Expert"/>
+    <File Path="..\..\Documents\Embarcadero\Studio\Projects\Expert\Experience.pas"/>
+    <File Path="..\..\Documents\Embarcadero\Studio\Projects\Expert\Experience.dfm"/>
+    <File Path="..\..\Documents"/>
+    <File Path="..\..\Documents\IT PAT"/>
+    <File Path="..\..\Documents\IT PAT\New folder"/>
+    <File Path="..\..\Documents\IT PAT\New folder\Expert.pas"/>
+    <File Path="..\..\Documents\IT PAT\New folder\Expert.dfm"/>
+    <File Path="..\..\Documents\IT PAT\New folder\SignUp.pas"/>
+    <File Path="..\..\Documents\IT PAT\New folder\SignUp.dfm"/>
+    <File Path="..\..\Documents\IT PAT\New folder\dmConnection.pas"/>
+    <File Path="..\..\Documents\IT PAT\New folder\dmConnection.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
